@@ -1,0 +1,15 @@
+C:\dev\szyperownia\06.12.2022\Klasy\Klasy\bin\Debug\net6.0\Klasy.exe
+C:\dev\szyperownia\06.12.2022\Klasy\Klasy\bin\Debug\net6.0\Klasy.deps.json
+C:\dev\szyperownia\06.12.2022\Klasy\Klasy\bin\Debug\net6.0\Klasy.runtimeconfig.json
+C:\dev\szyperownia\06.12.2022\Klasy\Klasy\bin\Debug\net6.0\Klasy.dll
+C:\dev\szyperownia\06.12.2022\Klasy\Klasy\bin\Debug\net6.0\Klasy.pdb
+C:\dev\szyperownia\06.12.2022\Klasy\Klasy\obj\Debug\net6.0\Klasy.csproj.AssemblyReference.cache
+C:\dev\szyperownia\06.12.2022\Klasy\Klasy\obj\Debug\net6.0\Klasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\szyperownia\06.12.2022\Klasy\Klasy\obj\Debug\net6.0\Klasy.AssemblyInfoInputs.cache
+C:\dev\szyperownia\06.12.2022\Klasy\Klasy\obj\Debug\net6.0\Klasy.AssemblyInfo.cs
+C:\dev\szyperownia\06.12.2022\Klasy\Klasy\obj\Debug\net6.0\Klasy.csproj.CoreCompileInputs.cache
+C:\dev\szyperownia\06.12.2022\Klasy\Klasy\obj\Debug\net6.0\Klasy.dll
+C:\dev\szyperownia\06.12.2022\Klasy\Klasy\obj\Debug\net6.0\refint\Klasy.dll
+C:\dev\szyperownia\06.12.2022\Klasy\Klasy\obj\Debug\net6.0\Klasy.pdb
+C:\dev\szyperownia\06.12.2022\Klasy\Klasy\obj\Debug\net6.0\Klasy.genruntimeconfig.cache
+C:\dev\szyperownia\06.12.2022\Klasy\Klasy\obj\Debug\net6.0\ref\Klasy.dll

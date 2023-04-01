@@ -1,0 +1,15 @@
+C:\dev\szyperownia\10.01.2023\getter_setter\getter_setter\bin\Debug\net6.0\getter_setter.exe
+C:\dev\szyperownia\10.01.2023\getter_setter\getter_setter\bin\Debug\net6.0\getter_setter.deps.json
+C:\dev\szyperownia\10.01.2023\getter_setter\getter_setter\bin\Debug\net6.0\getter_setter.runtimeconfig.json
+C:\dev\szyperownia\10.01.2023\getter_setter\getter_setter\bin\Debug\net6.0\getter_setter.dll
+C:\dev\szyperownia\10.01.2023\getter_setter\getter_setter\bin\Debug\net6.0\getter_setter.pdb
+C:\dev\szyperownia\10.01.2023\getter_setter\getter_setter\obj\Debug\net6.0\getter_setter.csproj.AssemblyReference.cache
+C:\dev\szyperownia\10.01.2023\getter_setter\getter_setter\obj\Debug\net6.0\getter_setter.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\szyperownia\10.01.2023\getter_setter\getter_setter\obj\Debug\net6.0\getter_setter.AssemblyInfoInputs.cache
+C:\dev\szyperownia\10.01.2023\getter_setter\getter_setter\obj\Debug\net6.0\getter_setter.AssemblyInfo.cs
+C:\dev\szyperownia\10.01.2023\getter_setter\getter_setter\obj\Debug\net6.0\getter_setter.csproj.CoreCompileInputs.cache
+C:\dev\szyperownia\10.01.2023\getter_setter\getter_setter\obj\Debug\net6.0\getter_setter.dll
+C:\dev\szyperownia\10.01.2023\getter_setter\getter_setter\obj\Debug\net6.0\refint\getter_setter.dll
+C:\dev\szyperownia\10.01.2023\getter_setter\getter_setter\obj\Debug\net6.0\getter_setter.pdb
+C:\dev\szyperownia\10.01.2023\getter_setter\getter_setter\obj\Debug\net6.0\getter_setter.genruntimeconfig.cache
+C:\dev\szyperownia\10.01.2023\getter_setter\getter_setter\obj\Debug\net6.0\ref\getter_setter.dll
