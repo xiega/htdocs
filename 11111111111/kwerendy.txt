@@ -1,0 +1,7 @@
+SELECT nazwa, ilosc, opis, cena, zdjecie FROM `produkty` WHERE Rodzaje_id IN(1,2);
+
+SELECT produkty.nazwa FROM produkty JOIN producenci ON produkty.id = producenci.id WHERE ilosc < 10 AND Rodzaje_id = 1;
+
+CREATE USER 'anna'@'localhost' IDENTIFIED BY '@nna23';
+
+INSERT INTO `produkty`(`Rodzaje_id`, `Producenci_id`, `nazwa`, `ilosc`, `opis`, `cena`, `zdjecie`) VALUES ((SELECT id FROM rodzaje WHERE nazwa LIKE "owoce"),(SELECT id FROM producenci WHERE nazwa LIKE "warzywa-rolnik"),'owoc1','10','','9,99','owoce.jpg');
